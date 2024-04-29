@@ -32,7 +32,7 @@ const AdminSidebar = () => {
           <CloseIcon />
         </button>
         <div className="border-b border-[#D9D9D9] bg-light  px-6 py-3 dark:border-gray-700 dark:bg-dark md:p-6 ">
-          <h1 className="text-xl font-medium text-light-title dark:text-dark-title">WanderLust</h1>
+          <h1 className="text-xl font-medium text-light-title dark:text-dark-title">WanderLust three tier app</h1>
         </div>
         <div className="flex flex-col gap-2 p-6">
           <NavLink
